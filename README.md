@@ -2,7 +2,7 @@
 This repository holds all of the necessary files required to run the cube solving application on the pynq board.
 
 demo:
-https://www.youtube.com/watch?v=i2_RQxWd3Mc
+https://www.youtube.com/watch?v=qmOL4Yn8kws
 
 # Instructions
 RGB LED 4 (LD4): Direction to rotate the face of the cube 90 degrees. Green for clockwise. Red for counterclockwise.
